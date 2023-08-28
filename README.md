@@ -18,11 +18,11 @@
 - Auto Races (even Season Race)
 - Change Drive Train of any car (RWD, AWD, FWD)
 - Infinite Road
-AND MORE
+- AND MORE
 
 > SharkBite 2
 - Auto Collect Vases
 - Traces ESP Shark
 - Clear Water
 - Boat Changer (any boat, "ship" for CruiseShip)
-AND MORE
+- AND MORE
