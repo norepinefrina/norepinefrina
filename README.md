@@ -1,5 +1,5 @@
 # Astralic UI - Meant for mobile (fluxus)
-[Join Discord Server for more information](https://discord.gg/V6VKVaXstx)
+Join [Discord Server](https://discord.gg/V6VKVaXstx) for more information
 
 ![](https://media.discordapp.net/attachments/1130174477238534164/1145058738659672185/4.jpg?width=2205&height=1491)
 # Features
