@@ -7,32 +7,29 @@ Join [Discord Server](https://discord.gg/V6VKVaXstx) for more information
 loadstring(game:HttpGet("https://astronomic.vercel.app"))()
 ```
 
-![](https://media.discordapp.net/attachments/1147181738045489302/1148269017816121446/1.jpg?width=2205&height=1497)
-![](https://media.discordapp.net/attachments/1147181738045489302/1148269018080350309/2.jpg?width=2205&height=1485)
-![](https://media.discordapp.net/attachments/1147181738045489302/1148269018323636324/3.jpg?width=2205&height=1482)
-![](https://media.discordapp.net/attachments/1147181738045489302/1148269018587861032/4.jpg?width=2205&height=1497)
+![](https://github.com/Astralic62/astralic62/assets/140242928/abbb0a26-a6ce-4477-9605-3cf177d87137)
 
-# Features
-### Universal
-- Mobile FreeCam
-- JobId Joiner
-- Secure Dex (compatible with mobile)
-- AND MORE
-### Games
-> Build a Boat for Treasure
-- Auto Farm Gold (100k+ overnight)
-- Auto Collect Gold Blocks
 
-> Car Dealership Tycoon
+# **Car Dealership Tycoon**
+- CAR SETTINGS (Speed, Acceleration, Steering Angle & MORE)
 - Auto Money Farm (100% safe)
-- Auto Races (even Season Race)
+- Auto Races (EVERY RACE)
 - Change Drive Train of any car (RWD, AWD, FWD)
 - Infinite Road
-- AND MORE
+[and MUCH more]
 
-> SharkBite 2
+# **SharkBite 2**
+- BOAT SETTINGS (speed, rotation speed, turrets fire rate, reload speed & MORE)
+- GUN SETTINGS (fire rate, bullets/ammo, range & MORE)
 - Auto Collect Vases
 - Traces ESP Shark
 - Clear Water
-- Boat Changer (any boat, "ship" for CruiseShip)
-- AND MORE
+- Boat Changer (ANY BOAT, "ship" for CruiseShip)
+[and MUCH more]
+
+# **Build a Boat for Treasure**
+- Auto Farm Gold (100k+ overnight)
+- Auto Collect Gold Blocks
+[and more]
+
+:white_heart: meant for mobile, under constant working :white_heart:
