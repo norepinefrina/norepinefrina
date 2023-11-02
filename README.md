@@ -1,7 +1,7 @@
 # Astralic UI - Meant for mobile (fluxus)
 This repository will be pretty much outdated, i won't update often
 
-Join [Discord Server](https://discord.gg/V6VKVaXstx) for more information
+Join [Discord Server](https://discord.gg/Dq8FFCcCVN) for more information
 
 ```lua
 loadstring(game:HttpGet("https://astronomic.vercel.app"))()
