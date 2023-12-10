@@ -7,7 +7,8 @@ Join [Discord Server](https://discord.gg/dTFRMdDqwX) for more information
 loadstring(game:HttpGet("https://astronomic.vercel.app"))()
 ```
 
-![](https://github.com/Astralic62/astralic62/assets/140242928/abbb0a26-a6ce-4477-9605-3cf177d87137)
+![Cafea](https://github.com/Astralic62/astralic62/assets/140242928/4000c3db-69f9-426e-bfb6-7ab5c189c3d8)
+![Lavender Divinity](https://github.com/Astralic62/astralic62/assets/140242928/1e58002c-758b-4643-be85-b3b822feb310)
 
 
 # **Car Dealership Tycoon**
