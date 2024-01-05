@@ -7,7 +7,9 @@ Astralic UI is a roblox script made on a phone for phones. These are the games t
 - Murder Mystery 2
 > [Discord Server](https://discord.gg/dTFRMdDqwX)│[Support Server](https://discord.gg/y2FV6WSjEc)│@asrua
 
-> 🌙 Purchase a Lifetime Premium Key with 6 USD [here](https://pandadevelopment.net/market) or 512 robux by contacting me on discord
+> For key system issues please contact [Pelican Discord](https://discord.gg/H6tgzEaceF)
+
+> Purchase a Lifetime Premium Key with 6 USD [here](https://pandadevelopment.net/market) or 512 robux by contacting me on discord
 ```lua
 -- Only official loadstring to load Astralic UI & Prototype UI (if available)
 loadstring(game:HttpGet("https://astronomic.vercel.app"))()
@@ -16,26 +18,18 @@ loadstring(game:HttpGet("https://astronomic.vercel.app"))()
 ![](https://github.com/Astralic62/astralic62/assets/140242928/cac881a2-8730-4938-a402-dab4e2be5863)
 
 ## 📘 Definitions
-- „Astralic (UI)“ is the main script with much features
-- „Astralic UI Library“ is my private UI Library that i made and which the above script uses
-- „Astralic Prototype (UI)" is our other UI that contains temporary features, usually for limited time events
-- „Astralic Prototype UI Library“ is a [public & open source](https://github.com/Astralic62/AstralicPrototypeUI) UI Library that the above script uses & which anybody can use
+- **Astralic (UI)** is the main script with much features
+- **Astralic UI Library** is my private UI Library that i made and which the above script uses
+- **Astralic Prototype (UI)** is our other UI that contains temporary features, usually for limited time events
+- **Astralic Prototype UI Library** is a [public & open source](https://github.com/Astralic62/AstralicPrototypeUI) UI Library that the above script uses & which anybody can use
 
 ## 🛠️ Loading Screen
-```diff
-@@ Loading External @@ is related to HTTP
-@@ Loading Internal @@ is the actual UI
-```
+- **External** are HTTP resources, you need an executor that supports request() JSON
+- **Internal** is the actual UI that contains features
+- **Closing** you've clicked on icon to close it
+- **Failed loading pelican system** this may happen if pelican key system was updated or ur executor is unsupported
+- **Failed validating your key** unsupported executor
 ![](https://github.com/Astralic62/astralic62/assets/140242928/1c7e2273-8592-4eac-ae04-5da3317c9f6e)
-```diff
-@@ Closing @@ hides loading screen on image click
-```
 ![](https://github.com/Astralic62/astralic62/assets/140242928/9bcd343f-ec9f-4687-91b2-254b2923f20f)
-```diff
-@@ Failed loading pelican system @@ key system issue
-@@ Failed validating your key @@ another key system issue
-```
-> For key system issues please contact [Pelican Discord](https://discord.gg/H6tgzEaceF)
-
 ![](https://github.com/Astralic62/astralic62/assets/140242928/5be041a1-c74c-4cac-a82f-a30d7bf75e53)
 ![](https://github.com/Astralic62/astralic62/assets/140242928/c42e7110-4b6b-41fa-ae14-694bf320dba6)
