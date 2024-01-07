@@ -35,7 +35,7 @@ loadstring(game:HttpGet("https://astronomic.vercel.app"))()
 ![](https://github.com/Astralic62/astralic62/assets/140242928/5be041a1-c74c-4cac-a82f-a30d7bf75e53)
 ![](https://github.com/Astralic62/astralic62/assets/140242928/c42e7110-4b6b-41fa-ae14-694bf320dba6)
 # ❔ What Astralic Collects
-Astralic will collect these for statistics and user support, which only Astralic owner has acces to:
+Astralic will collect these for statistics and user support which only Astralic owner has acces to
 - profile link
 - game link
 - profile pfp
@@ -45,4 +45,4 @@ Astralic will collect these for statistics and user support, which only Astralic
 - username
 - user id
 - client id
-> 🔎 Astralic doesn't and will never collect IPs. I don't like my IP to be collected by a random scrips, therefore i don't do that
+> 🔎 Astralic doesn't and will never collect IPs. I don't like my IP to be collected by random scrips, therefore i don't do that
