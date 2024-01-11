@@ -1,5 +1,5 @@
 # ✏️ About
-Astralic UI is a roblox script made on a phone for phones. These are the games that i made for, with the main focus on first two:
+Astralic UI is a roblox script made on a phone for phones, only developed by a single person. These are the games that i made for, with the main focus on first two:
 - Car Dealership Tycoon
 - Bee Swarm Simulator
 - Pet Simulator 99
@@ -9,14 +9,19 @@ Astralic UI is a roblox script made on a phone for phones. These are the games t
 > 💬 [Discord Server](https://discord.gg/dTFRMdDqwX)│[Support Server](https://discord.gg/y2FV6WSjEc)│@asrua
 
 > 🔑 For key system issues please contact [Pelican Discord](https://discord.gg/H6tgzEaceF)
-
-> ⭐ Purchase a Lifetime Premium Key with 6 USD [here](https://pandadevelopment.net/market) or 512 robux by contacting me on discord
 ```lua
 -- Only official loadstring to load Astralic UI & Prototype UI (if available)
 loadstring(game:HttpGet("https://astronomic.vercel.app"))()
 ```
 ![](https://github.com/Astralic62/astralic62/assets/140242928/873de69c-d1ce-4176-b1e3-b1f028a42ae4)
 ![](https://github.com/Astralic62/astralic62/assets/140242928/cac881a2-8730-4938-a402-dab4e2be5863)
+
+## 🤍 Premium Key
+If u would like to have a premium key, here's how:
+- Purchasing a lifetime key with **6 USD** (PayPal) from [pelican marketplace](https://pandadevelopment.net/market) which arrives instantly. (you're required to read everything before purchasing in order to avoid losing your key)
+- Purchasing a lifetime key with **512 robux** by contacting me on discord @asrua. (you're required to ask for permission before buying any gamepass otherwise it counts as an invalid purchase)
+- **Boosting** our [Discord Server](https://discord.gg/dTFRMdDqwX) and then contacting me on discord @asrua for a temporary one week key. (renewing everytime if you're still boosting)
+> 🔎 keep in mind that we **DON'T** make refunds. trying to refund will blacklist you from using Astralic ever again
 
 ## 📘 Definitions
 - **Astralic (UI)** is the main script with much features
