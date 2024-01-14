@@ -6,7 +6,7 @@ Astralic UI is a roblox script made on a phone for phones, only developed by a s
 - SharkBite 2
 - Build a Boat for Treasure
 - Murder Mystery 2
-> 💬 [Discord Server](https://discord.gg/dTFRMdDqwX)│[Support Server](https://discord.gg/y2FV6WSjEc)│@asrua
+> 💬 @asrua│[Discord Server](https://discord.gg/dTFRMdDqwX)│[Support Server](https://discord.gg/y2FV6WSjEc)│[Telegram](https://t.me/AstralicUI)│[YouTube](https://youtube.com/@Astralic_UI)
 
 > 🔑 For key system issues please contact [Pelican Discord](https://discord.gg/H6tgzEaceF)
 ```lua
