@@ -13,6 +13,8 @@ Astralic UI is a roblox script made on a phone for phones, only developed by a s
 -- Only official loadstring to load Astralic UI & Prototype UI (if available)
 loadstring(game:HttpGet("https://astronomic.vercel.app"))()
 ```
+> 🔄 Toggle on top right or `Z` key
+
 ![](https://github.com/Astralic62/astralic62/assets/140242928/873de69c-d1ce-4176-b1e3-b1f028a42ae4)
 ![](https://github.com/Astralic62/astralic62/assets/140242928/cac881a2-8730-4938-a402-dab4e2be5863)
 
