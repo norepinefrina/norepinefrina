@@ -6,7 +6,7 @@ Astralic UI is a roblox script made on a phone for phones, only developed by a s
 - SharkBite 2
 - Build a Boat for Treasure
 - Murder Mystery 2
-> 💬 @asrua│[Discord Server](https://discord.gg/dTFRMdDqwX)│[Support Server](https://discord.gg/y2FV6WSjEc)│[Telegram](https://t.me/AstralicUI)│[YouTube](https://youtube.com/@Astralic_UI)
+> 💬 @asrua│[Discord Server](https://discord.gg/9PaysQBwpK)│[Telegram](https://t.me/AstralicUI)│[YouTube](https://youtube.com/@Astralic_UI)
 
 > 🔑 For key system issues please contact [Pelican Discord](https://discord.gg/H6tgzEaceF)
 ```lua
@@ -22,7 +22,7 @@ loadstring(game:HttpGet("https://astronomic.vercel.app"))()
 If u would like to have a premium key, here's how:
 - Purchasing a lifetime key with **6 USD** (PayPal) from [pelican marketplace](https://pandadevelopment.net/market) which arrives instantly. (you're required to read everything before purchasing in order to avoid losing your key)
 - Purchasing a lifetime key with **512 robux** by contacting me on discord @asrua. (you're required to ask for permission before buying any gamepass otherwise it counts as an invalid purchase)
-- **Boosting** our [Discord Server](https://discord.gg/dTFRMdDqwX) and then contacting me on discord @asrua for a temporary one week key. (renewing everytime if you're still boosting)
+- **Boosting** our [Discord Server](https://discord.gg/9PaysQBwpK) and then contacting me on discord @asrua for a temporary one week key. (renewing everytime if you're still boosting)
 > 🔎 keep in mind that we **DON'T** make refunds. trying to refund will blacklist you from using Astralic ever again
 
 ## 📘 Definitions
