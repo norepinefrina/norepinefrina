@@ -53,3 +53,5 @@ Astralic will collect these for statistics and user support which only Astralic 
 - user id
 - client id
 > 🔎 Astralic doesn't and will never collect IPs. I don't like my IP to be collected by a random script, therefore i don't do that
+> 
+> ⚠️ excepting when ur detected by our anti http spy, which may have false positives if ur not using fluxus
