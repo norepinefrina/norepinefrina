@@ -1,4 +1,6 @@
 # ✏️ About
+born around at the start of 2023
+
 Astralic UI is a roblox script made on a phone for phones, only developed by a single person. These are the games that i made for, with the main focus on first two:
 - Car Dealership Tycoon
 - Bee Swarm Simulator
