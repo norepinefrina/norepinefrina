@@ -26,7 +26,7 @@ If u would like to have a premium key, here's how:
 
 Permanent
 - Purchasing a lifetime key with **6 USD** (PayPal) from [pelican marketplace](https://pandadevelopment.net/market) which arrives instantly. (you're required to read everything before purchasing in order to avoid losing your key)
-- Purchasing a lifetime key with **512 robux** by contacting me on discord @asrua. (you're required to ask for permission before buying any gamepass otherwise it counts as an invalid purchase)
+- Purchasing a lifetime key with **572 robux** by contacting me on discord @asrua. (you're required to ask for permission before buying any gamepass otherwise it counts as an invalid purchase)
 
 Temporary
 - **Boosting** our [Discord Server](https://discord.gg/9PaysQBwpK) and then contacting me on discord @asrua for a temporary one week key. (renewing everytime if you're still boosting)
