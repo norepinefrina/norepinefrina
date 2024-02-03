@@ -25,7 +25,7 @@ loadstring(game:HttpGet("https://astronomic.vercel.app"))()
 If u would like to have a premium key, here's how:
 
 Permanent
-- Purchasing a lifetime key with **6 USD** (PayPal) from [pelican marketplace](https://pandadevelopment.net/market) which arrives instantly. (you're required to read everything before purchasing in order to avoid losing your key)
+- Purchasing a lifetime key with **6 USD** (PayPal) from [pelican marketplace](https://pandadevelopment.net/market?q=astralic) which arrives instantly. (you're required to read everything before purchasing in order to avoid losing your key)
 - [NO LONGER AVAILABLE AS OF 1/3/2024] Purchasing a lifetime key with **572 robux** by contacting me on discord @asrua. (you're required to ask for permission before buying any gamepass otherwise it counts as an invalid purchase)
 
 Temporary
@@ -62,4 +62,4 @@ Astralic will collect these for statistics and user support which only Astralic 
 - client id
 > 🔎 Astralic doesn't and will never collect IPs. I don't like my IP to be collected by a random script, therefore i don't do that
 > 
-> ⚠️ excepting when ur detected by our anti http spy, which may have false positives if ur not using fluxus
+> ⚠️ excepting when ur detected by our anti http spy, which may have false positives if ur not using fluxus. we do this in order to blacklist u
