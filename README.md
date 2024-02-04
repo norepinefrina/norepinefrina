@@ -1,13 +1,11 @@
 <!--
-<div align = "center">
+<div align = "center"> text here </div>
 <br> -- new line
 -->
 
-> [!IMPORTANT]
-documentation may not be up to date with our newest script version
-
 > [!CAUTION]
-this is our only official loadstring which means that any other way to execute noradrenaline may be unsafe and unstable
+・documentation may not be up to date with our newest script version <br>
+・this is our only official loadstring which means that any other way to execute noradrenaline may be unsafe and unstable
 ```lua
 loadstring(game:HttpGet("https://astronomic.vercel.app"))()
 ```
@@ -42,14 +40,15 @@ loadstring(game:HttpGet("https://astronomic.vercel.app"))()
 <div align = "center">
 
 # 🌷 Privacy 🌷 </div>
-・noradrenaline will collect these infos which are only seen / accessible by me in order to provide a faster support with premium issues & for checking your usage history to potentially verify your discord account
+・noradrenaline will collect these infos which are only seen / accessible by me in order to provide a faster support with premium issues & for checking your usage history to potentially verify ur discord account:
 
 profile link & pfp, executor name, game link & name, county initial, display name, user name & id, client id (hwid)
 > [!IMPORTANT]
-noradrenaline will never collect your ip adress unless your trying to bypass our anti http spy or key system which may have false-positive on any executor that's not fluxus which will be used to blacklist u from our script
+noradrenaline will never collect ur ip adress unless you're trying to bypass our anti http spy or key system which may have false-positive on any executor that's not fluxus. this will only be used to blacklist u from our script
 
 
 <div align = "center">
 
 # 🌺 Contact 🌺
-@asrua (1106648495324151839)│[Discord Server](https://discord.gg/9PaysQBwpK)│[Old Server](https://discord.gg/dTFRMdDqwX)│[YouTube](https://youtube.com/@Astralic_UI)│[Telegram](https://t.me/astralicUI) </div>
+@asrua (1106648495324151839) <br>
+[Discord Server](https://discord.gg/9PaysQBwpK)│[Old Server](https://discord.gg/dTFRMdDqwX)│[YouTube](https://youtube.com/@Astralic_UI)│[Telegram](https://t.me/astralicUI) </div>
