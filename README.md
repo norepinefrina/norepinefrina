@@ -1,65 +1,49 @@
-> 🔎 Documentation may be not updated to current version of our script
-# ✏️ About
-born around at the start of 2023
+<!--
+<div align = "center">
+<br> -- new line
+-->
 
-Astralic UI is a roblox script made on a phone for phones, only developed by a single person. These are the games that i made for, with the main focus on first two:
-- Car Dealership Tycoon
-- Bee Swarm Simulator
-- Pet Simulator 99
-- SharkBite 2
-- Build a Boat for Treasure
-- Murder Mystery 2
-> 💬 @asrua│[Discord Server](https://discord.gg/9PaysQBwpK)│[Telegram](https://t.me/AstralicUI)│[YouTube](https://youtube.com/@Astralic_UI)
+> [!IMPORTANT]
+documentation may not be up to date with our script version
 
-> 🔑 For key system issues please contact [Pelican Discord](https://discord.gg/H6tgzEaceF)
+> [!CAUTION]
+this is our only official loadstring which means that any other way to execute noradrenaline may be unsafe and unstable
 ```lua
--- Only official loadstring to load Astralic UI & Prototype UI (if available)
 loadstring(game:HttpGet("https://astronomic.vercel.app"))()
 ```
-> 🔄 Toggle on top right or `Z` key
 
-![](https://github.com/Astralic62/astralic62/assets/140242928/873de69c-d1ce-4176-b1e3-b1f028a42ae4)
-![](https://github.com/Astralic62/astralic62/assets/140242928/cac881a2-8730-4938-a402-dab4e2be5863)
+<div align = "center">
 
-## 🤍 Premium Key
-If u would like to have a premium key, here's how:
+# 🎀 About 🎀 </div>
+・i've created noradrenaline around early-mid of 2023 entirely with a phone starting in note pad and still developing it on phone
+(anterior: astralic / astro, alpha: vampire blood)
 
-Permanent
-- Purchasing a lifetime key with **6 USD** (PayPal) from [pelican marketplace](https://pandadevelopment.net/market?q=astralic) which arrives instantly. (you're required to read everything before purchasing in order to avoid losing your key)
-- [NO LONGER AVAILABLE AS OF 1/3/2024] Purchasing a lifetime key with **572 robux** by contacting me on discord @asrua. (you're required to ask for permission before buying any gamepass otherwise it counts as an invalid purchase)
+・noradrenaline is an universal & games mobile script which may be used in any game but is made for:
+<div align = "center">
 
-Temporary
-- **Boosting** our [Discord Server](https://discord.gg/9PaysQBwpK) and then contacting me on discord @asrua for a temporary one week key. (renewing everytime if you're still boosting)
-- **Earning** badges in our [Discord Server](https://discord.gg/9PaysQBwpK). Such as counting numbers or sending cat images
-> 🔎 keep in mind that we **DON'T** make refunds. trying to refund will blacklist you from using Astralic ever again
+[Bee Swarm Simulator](https://roblox.com/games/1537690962)│[Car Dealership Tycoon](https://roblox.com/games/1554960397)│[Pet Simulator 99](https://roblox.com/games/8737899170)│[SharkBite 2](https://roblox.com/games/8908228901)│[Build a Boat for Treasure](https://roblox.com/games/537413528)│[Murder Mystery 2](https://roblox.com/games/142823291)
 
-## 📘 Definitions
-- **Astralic (UI)** is the main script with much features
-- **Astralic UI Library** is my private UI Library that i made and which the above script uses
-- **Astralic Prototype (UI)** is our other UI that contains temporary features, usually for limited time events
-- **Astralic Prototype UI Library** is a [public & open source](https://github.com/Astralic62/AstralicPrototypeUI) UI Library that the above script uses & which anybody can use
+<img width = "40%" src = "https://github.com/Astralic62/astralic62/assets/140242928/2d276f37-8f48-494f-93a5-02ac3b434fa8">
+</div>
 
-## 🛠️ Loading Screen
-- **External** are HTTP resources, you need an executor that supports request() JSON
-- **Internal** is the actual UI that contains features
-- **Closing** you've clicked on icon to close it
-- **Failed loading pelican system** this may happen if pelican key system was updated or ur executor is unsupported
-- **Failed validating your key** unsupported executor
-![](https://github.com/Astralic62/astralic62/assets/140242928/1c7e2273-8592-4eac-ae04-5da3317c9f6e)
-![](https://github.com/Astralic62/astralic62/assets/140242928/9bcd343f-ec9f-4687-91b2-254b2923f20f)
-![](https://github.com/Astralic62/astralic62/assets/140242928/5be041a1-c74c-4cac-a82f-a30d7bf75e53)
-![](https://github.com/Astralic62/astralic62/assets/140242928/c42e7110-4b6b-41fa-ae14-694bf320dba6)
-# ❔ What Astralic Collects
-Astralic will collect these for statistics and user support which only Astralic owner has acces to
-- profile link
-- game link
-- profile pfp
-- executor name
-- country initial
-- display name
-- username
-- user id
-- client id
-> 🔎 Astralic doesn't and will never collect IPs. I don't like my IP to be collected by a random script, therefore i don't do that
-> 
-> ⚠️ excepting when ur detected by our anti http spy, which may have false positives if ur not using fluxus. we do this in order to blacklist u
+<div align = "center">
+
+# 🤍 Premium 🤍 </div>
+・special keys which doesn't expire and gives u acces to additional features
+
+— **lifetime** <br>
+・purchasing with 6 usd through paypal [right here](https://pandadevelopment.net/market?q=astralic) which arrives instantly <br>
+・buying for 572 robux by contacting me on discord which may take some time (unavailable since 1/may/2023)
+
+— **temporary** <br>
+・boosting our [discord server](https://discord.gg/9PaysQBwpK) and telling me. these key expires in 7 days but i'll renew if ur still a booster <3 <br>
+・earning special badges in our discord server
+
+<div align = "center">
+
+# 🌷 Privacy 🌷 </div>
+・noradrenaline will collect these infos which are only seen / accessible by me in order to provide a faster support with premium issues & for checking your usage history to potentially verify your discord account
+
+profile link & pfp, executor name, game link & name, county initial, display name, user name & id, client id (hwid)
+> [!IMPORTANT]
+noradrenaline will never collect your ip adress unless your trying to bypass our anti http spy or key system which may have false-positive on any executor that's not fluxus which will be used to blacklist u from our script
