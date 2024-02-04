@@ -23,7 +23,7 @@ loadstring(game:HttpGet("https://astronomic.vercel.app"))()
 
 [Bee Swarm Simulator](https://roblox.com/games/1537690962)│[Car Dealership Tycoon](https://roblox.com/games/1554960397)│[Pet Simulator 99](https://roblox.com/games/8737899170)│[SharkBite 2](https://roblox.com/games/8908228901)│[Build a Boat for Treasure](https://roblox.com/games/537413528)│[Murder Mystery 2](https://roblox.com/games/142823291)
 
-<img width = "60%" src = "https://github.com/Astralic62/astralic62/assets/140242928/2d276f37-8f48-494f-93a5-02ac3b434fa8">
+<img width = "100%" src = "https://github.com/Astralic62/astralic62/assets/140242928/2d276f37-8f48-494f-93a5-02ac3b434fa8">
 </div>
 
 <div align = "center">
