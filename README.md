@@ -32,7 +32,7 @@ loadstring(game:HttpGet("https://astronomic.vercel.app"))()
 ・special keys which doesn't expire and gives u acces to additional features
 
 — **lifetime** <br>
-・purchasing with 6 usd through paypal [right here](https://pandadevelopment.net/market?q=astralic) which arrives instantly <br>
+・purchasing with 6 usd through paypal [right here](https://pandadevelopment.net/market?q=noradrenaline) which arrives instantly <br>
 ・buying for 572 robux by contacting me on discord which may take some time (unavailable since 1/may/2023)
 
 — **temporary** <br>
@@ -47,3 +47,9 @@ loadstring(game:HttpGet("https://astronomic.vercel.app"))()
 profile link & pfp, executor name, game link & name, county initial, display name, user name & id, client id (hwid)
 > [!IMPORTANT]
 noradrenaline will never collect your ip adress unless your trying to bypass our anti http spy or key system which may have false-positive on any executor that's not fluxus which will be used to blacklist u from our script
+
+
+<div align = "center">
+
+# 🌺 Contact 🌺
+@asrua (1106648495324151839)│[Discord Server](https://discord.gg/9PaysQBwpK)│[Old Server](https://discord.gg/dTFRMdDqwX)│[YouTube](https://youtube.com/@Astralic_UI)│[Telegram](https://t.me/astralicUI) </div>
