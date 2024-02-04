@@ -4,7 +4,7 @@
 -->
 
 > [!IMPORTANT]
-documentation may not be up to date with our script version
+documentation may not be up to date with our newest script version
 
 > [!CAUTION]
 this is our only official loadstring which means that any other way to execute noradrenaline may be unsafe and unstable
