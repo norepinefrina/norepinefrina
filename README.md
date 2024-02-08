@@ -37,6 +37,9 @@ loadstring(game:HttpGet("https://astronomic.vercel.app"))()
 ・boosting our [discord server](https://discord.gg/9PaysQBwpK) and telling me. these key expires in 7 days but i'll renew if ur still a booster <3 <br>
 ・earning special badges in our discord server
 
+> [!IMPORTANT]
+we do not offer any type of refunds so please be sure before purchasing premium
+
 <div align = "center">
 
 # 🌷 Privacy 🌷 </div>
