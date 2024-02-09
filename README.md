@@ -47,7 +47,7 @@ we do not offer any type of refunds so please be sure before purchasing premium
 
 profile link & pfp, executor name, game link & name, county initial, display name, user name & id, client id (hwid)
 > [!IMPORTANT]
-noradrenaline will never collect ur ip adress unless you're trying to bypass our anti http spy or key system which may have false-positive on any executor that's not fluxus. this will only be used to blacklist u from our script
+noradrenaline will never collect ur ip adress unless you're trying to bypass our anti http spy or key system which may have false-positive on any executor that's not fluxus. this will only be used to blacklist u from our service
 
 
 <div align = "center">
