@@ -57,4 +57,4 @@ noradrenaline will never collect ur ip adress unless you're trying to bypass our
 
 # 🌺 Contact 🌺
 @asrua (1106648495324151839) <br>
-[Discord Server](https://discord.gg/9PaysQBwpK)│[Old Server](https://discord.gg/dTFRMdDqwX)│[YouTube](https://youtube.com/@ahsrua)│[Telegram](https://t.me/norepinafrina) </div>
+[Discord Server](https://discord.gg/9PaysQBwpK)│[Old Discord Server](https://discord.gg/dTFRMdDqwX)│[YouTube](https://youtube.com/@ahsrua)│[Telegram](https://t.me/norepinafrina) </div>
