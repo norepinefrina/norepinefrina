@@ -3,12 +3,13 @@
 <br> -- new line
 -->
 
+<div align = "center">
+
+[About](https://github.com/ahsrua/ahsrua/edit/main/README.md#-about--)│[Premium](https://github.com/ahsrua/ahsrua/edit/main/README.md#-premium--)│[Privacy](https://github.com/ahsrua/ahsrua/edit/main/README.md#-privacy--)│[Contact](https://github.com/ahsrua/ahsrua/edit/main/README.md#-contact-) </div>
+
 > [!CAUTION]
 ・documentation may not be up to date with our newest script version <br>
-・this is our only official loadstring which means that any other way to execute noradrenaline may be unsafe and unstable
-```lua
-loadstring(game:HttpGet("https://astronomic.vercel.app"))()
-```
+・ under is our only official loadstring which means that any other way to execute noradrenaline may be unsafe and unstable
 
 <div align = "center">
 
@@ -20,7 +21,9 @@ loadstring(game:HttpGet("https://astronomic.vercel.app"))()
 <div align = "center">
 
 [Bee Swarm Simulator](https://roblox.com/games/1537690962)│[Car Dealership Tycoon](https://roblox.com/games/1554960397)│[Pet Simulator 99](https://roblox.com/games/8737899170)│[SharkBite 2](https://roblox.com/games/8908228901)│[Build a Boat for Treasure](https://roblox.com/games/537413528)│[Murder Mystery 2](https://roblox.com/games/142823291)
-
+```lua
+loadstring(game:HttpGet("https://astronomic.vercel.app"))()
+```
 <img width = "100%" src = "https://github.com/Astralic62/astralic62/assets/140242928/2d276f37-8f48-494f-93a5-02ac3b434fa8">
 </div>
 
