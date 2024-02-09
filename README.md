@@ -5,7 +5,7 @@
 
 <div align = "center">
 
-[About](https://github.com/ahsrua/ahsrua/edit/main/README.md#-about--)│[Premium](https://github.com/ahsrua/ahsrua/edit/main/README.md#-premium--)│[Privacy](https://github.com/ahsrua/ahsrua/edit/main/README.md#-privacy--)│[Contact](https://github.com/ahsrua/ahsrua/edit/main/README.md#-contact-) </div>
+[About](https://github.com/ahsrua/ahsrua/tree/main#-about--)│[Premium](https://github.com/ahsrua/ahsrua/tree/main#-premium--)│[Privacy](https://github.com/ahsrua/ahsrua/tree/main#-privacy--)│[Contact](https://github.com/ahsrua/ahsrua/tree/main#-contact-) </div>
 
 > [!CAUTION]
 ・documentation may not be up to date with our newest script version <br>
