@@ -33,7 +33,7 @@ loadstring(game:HttpGet("https://astronomic.vercel.app"))()
 ・special keys which doesn't expire and gives u acces to additional features
 
 — **lifetime** <br>
-・purchasing with 6 usd through paypal [right here](https://pandadevelopment.net/market?q=noradrenaline) which arrives instantly <br>
+・purchasing with 6 euro through sellix [right here](https://asrua.mysellix.io) which arrives instantly <br>
 ・buying for 572 robux by contacting me on discord which may take some time (unavailable since 1/may/2023)
 
 — **temporary** <br>
