@@ -37,7 +37,7 @@ loadstring(game:HttpGet("https://astronomic.vercel.app"))()
 ・buying for 572 robux by contacting me on discord which may take some time (unavailable since 1/may/2023)
 
 — **temporary** <br>
-・boosting our [discord server](https://discord.gg/9PaysQBwpK) and telling me. these key expires in 7 days but i'll renew if ur still a booster <3 <br>
+・boosting our [discord server](https://discord.gg/9PaysQBwpK) and telling me. these keys expires in 7 days but i'll renew if ur still a booster <3 <br>
 ・earning special badges in our discord server
 
 > [!IMPORTANT]
