@@ -1,10 +1,13 @@
 <div align = "center">
 
-# 🎀 About Me 🎀 </div>
-・coding entirely on a phone! a self learner coder & developer, coding in Lua(U), HTML, CSS & JavaScript!
+# 〔 About Me 〕
+Just a simple human being interesed in video games and coding stuff
 
-<div align = "center">
+# 〔 My Project 〕
+[Website](https://norepinefrina.com) <br>
+Norepinefrină is a Free Roblox Script created on 12.05.2023
 
-# 💜 My Project 💜 </div>
-・noradrenaline is a free roblox script with a unique ui! you may visit [our website](https://ahsrua.com/home) and see a preview under:
-<img width = "100%" src = "https://github.com/Astralic62/astralic62/assets/140242928/2d276f37-8f48-494f-93a5-02ac3b434fa8">
+## Preview
+![](https://i.postimg.cc/6pHFzC8M/1.jpg)
+
+</div>
