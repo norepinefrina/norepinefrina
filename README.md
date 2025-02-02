@@ -8,6 +8,6 @@ Just a simple human being interesed in video games and coding stuff
 Norepinefrină is a Free Roblox Script created on 12.05.2023
 
 ## Preview
-![](https://i.postimg.cc/LXqVRFx7/a.jpg)
+![](https://i.postimg.cc/SKMgYwYd/a.jpg)
 
 </div>
